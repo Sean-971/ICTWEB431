@@ -1,18 +1,40 @@
 img {
-width 250px;
+width: unset;
 height:300px;
 }
-p1 {
+.content {
+    color: gold;
+}
+p {
 font-size:200%;
 font-family:verdana;
 }
-p2 {
+h2 {
 font-size:150%;
 font-family:"Lucida Console", "Courier New", monospace;
 }
 body{
 background-color: lightblue;
 }
-border{
-color: black;
+
+nav {
+    background-color:rgb(141, 138, 138); 
+    font-size: medium;
+    padding: 5px;
+    border: 3px solid black;
+    margin: 10px 0 10px 0;
+    
+}
+ 
+nav a {
+    color: white;
+    text-decoration-line: none;
+}
+
+a:hover {
+color: peru;
+text-decoration-line:underline;
+}
+a:visited {
+    color:darkred;
 }
