@@ -50,6 +50,9 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #333333;
+  position: fixed;
+  Bottom: 0;
+  Width: 100%;
 }
 
 ul li {
