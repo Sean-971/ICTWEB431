@@ -5,6 +5,7 @@ height:300px;
 .footnote {
     color:rgb(99, 48, 48);
     font-size: small;
+    text-align: center;
 }
 .content {
     color: gold;
