@@ -2,6 +2,10 @@ img {
 width: unset;
 height:300px;
 }
+.footnote {
+    color:black;
+    font-size: small;
+}
 .content {
     color: gold;
 }
