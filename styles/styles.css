@@ -42,7 +42,7 @@ color: peru;
 text-decoration-line:underline;
 }
 a:visited {
-    color:darkred;
+    color:rgb(19, 16, 202);
 }
 ul {
   list-style-type: none;
